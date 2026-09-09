@@ -130,5 +130,5 @@ Python (Pandas), Jupyter Notebook, Power BI Desktop
 
 \## Author
 
-Sandali Jayasingha — \[LinkedIn](your-linkedin-url-here)
+Sandali Jayasingha — www.linkedin.com/in/sandali-jayasingha-9662913b4
 
